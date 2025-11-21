@@ -4,9 +4,13 @@
 
 He is currently a Fellow in the Department of Earth and Planetary Sciences (EPS) at Harvard University.
 
+#### Pronoun
+
+He/Him
+
 #### Contact
 
-Email: senli[at]fas.harvard.edu
+Email: leowang6060@gmail.com
 
 #### Education
 M.E., Computer Science and Technology, China University of Mining and Technology, 2022—2025.\
