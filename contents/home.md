@@ -45,3 +45,5 @@ Part-time
 Ping Pong, Movie, Culture
 
 [![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
+
+[![leowang6060](/Users/leiwang/Downloads/leowang6060.github.io/static/assets/img/kaggle.jpeg)](https://www.kaggle.com/wongprofessor)
