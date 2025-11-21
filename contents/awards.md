@@ -1,16 +1,5 @@
+- Excellent Teacher Award, Peking University, 2019
 
-- Outstanding Graduate Award (CUMT), 2025.
+- First Prize and Best Curriculum Design Award of Young Teacher Teaching Contest, Peking University, 2014
 
-- National Scholarship for Graduate Students (Ministry of Education, China), 2024.
-
-- First-Prize Graduate Academic Scholarship (CUMT), 2024.
-
-- First-Prize Graduate Academic Scholarship (CUMT), 2023.
-
-- Freshman Scholarship (CUMT), 2022.
-
-- Outstanding Undergraduate Thesis Award (Jiangsu, China), 2022.
-
-- First-Prize Corporate Scholarship (CUMT), 2020.
-
-- First-Prize Undergraduate Academic Scholarship (CUMT), 2019.
+- Ng Teng Fong – Sino Young Academic Award, Peking University, 2013 Second Prize of Multi-media Courseware Contest, Peking University, 2013
