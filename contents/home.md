@@ -42,7 +42,7 @@ Part-time
 *Sept. 2019 – Present: Project Instructor and Academic Advisor. Wuhan Ching Si Education Technology Co., Ltd. Involved in designing research projects and instructing graduate/postgraduate students to conduct academic research on speech and text processing, etc.
 
 #### Hobbies
-Ping Pong, Movie, Culture
+Ping Pong, Movie, Culture, Reading
 
 [![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
 
