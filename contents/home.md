@@ -46,4 +46,4 @@ Ping Pong, Movie, Culture, Reading
 
 [![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
 
-[![leowang6060](https://github.com/leowang6060/leowang6060.github.io/blob/main/static/assets/img/kaggle.jpeg)](https://www.kaggle.com/wongprofessor)
+[![leowang6060](https://img.shields.io/badge/leowang@-kaggle-blue)](https://www.kaggle.com/wongprofessor)
