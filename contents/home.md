@@ -44,6 +44,4 @@ Part-time
 #### Hobbies
 Ping Pong, Movie, Culture, Reading
 
-[![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
-
-[![leowang6060](https://img.shields.io/badge/leowang@-kaggle-blue)](https://www.kaggle.com/wongprofessor)
+[![leowang6060](https://img.shields.io/badge/leowang@-kaggle-blue)](https://www.kaggle.com/wongprofessor)  [![leowang6060](https://img.shields.io/badge/github-repo-blue?logo=github)](https://www.github.com/leowang6060)
