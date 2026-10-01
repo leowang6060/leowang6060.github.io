@@ -1,7 +1,9 @@
 ## Publications
 ### Book Chapters 
 1.Wang, L., Qu, W., Wang, H., Yu, S. (2023). A Generic Study of Linguistic Information Based on the Chinese Idiom Knowledge Base and Its Expansion. In: Huang, CR., Hsieh, SK., Jin, P. (eds) Chinese Language Resources. Text, Speech and Language Technology, vol 49. Springer, Cham. https://doi.org/10.1007/978-3-031-38913-9_8 
+
 2.Wang, L., Sui, Z., Zhu, X., Yu, S. (2023). Chinese Comprehensive Language Knowledge Base. In: Huang, CR., Hsieh, SK., Jin, P. (eds) Chinese Language Resources. Text, Speech and Language Technology, vol 49. Springer, Cham. https://doi.org/10.1007/978-3-031-38913-9_2 
+
 3.Wang, L., Wang, T. (2018). Automatic Correction of Definite Article Redundancy Error in the English Compositions of College Students. In: Cheung, S., Lam, J., Li, K., Au, O., Ma, W., Ho, W. (eds) Technology in Education. Innovative Solutions and Practices. ICTE 2018. Communications in Computer and Information Science, vol 843. Springer, Singapore. https://doi.org/10.1007/978-981-13-0008-0_8
 
 ### Journal Articles
