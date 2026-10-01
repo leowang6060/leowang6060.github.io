@@ -12,13 +12,10 @@ Email: leowang6060@gmail.com
 
 Peking University
 
-Associate Professor: Language Research and Education Center	2012 – Present
-
-Research Fellow: Key Lab of Computational Linguistics, MOE	2013-2022
-
-Associate Professor: Department of Language Information Engineering	 2013 – 2020
-
-Assistant Professor: School of Foreign Languages	2003-2012
+Associate Professor: Language Research and Education Center	2012 – Present  
+Research Fellow: Key Lab of Computational Linguistics, MOE	2013-2022  
+Associate Professor: Department of Language Information Engineering	 2013 – 2020  
+Assistant Professor: School of Foreign Languages	2003-2012  
 
 University of Colorado
 
