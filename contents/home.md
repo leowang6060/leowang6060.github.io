@@ -17,23 +17,20 @@ Research Fellow: Key Lab of Computational Linguistics, MOE	2013-2022
 Associate Professor: Department of Language Information Engineering	 2013 – 2020  
 Assistant Professor: School of Foreign Languages	2003-2012  
 
-University of Colorado
+University of Colorado  
 
-Visiting Researcher: Lab of Computational Semantics	2016 – 2017
+Visiting Researcher: Lab of Computational Semantics	2016 – 2017  
 
-University of Nebraska-Lincoln
+University of Nebraska-Lincoln  
 
 Visiting Researcher: School of Education	2009 – 2010
 
-Other Employment
+#### Other Employment
 
-Academic Advisor: GEC Academy	2020 – Present
-
-Senior Consultant: Meixing Century (Beijing) Educational Technology Co., Ltd.	 2021 – Present
-
-Academic Advisor: Harbour Education Technology Co., Ltd. 	2021 – Present
-
-Academic Advisor: Wuhan Ching Si Education Technology Co., Ltd. 	2019 – Present
+Academic Advisor: GEC Academy	2020 – Present  
+Senior Consultant: Meixing Century (Beijing) Educational Technology Co., Ltd.	 2021 – Present  
+Academic Advisor: Harbour Education Technology Co., Ltd. 	2021 – Present  
+Academic Advisor: Wuhan Ching Si Education Technology Co., Ltd. 	2019 – Present  
 
 #### Academic Interest
 
@@ -41,27 +38,27 @@ AIGC with concentration on creative writing and AI long-text understanding, educ
 
 #### Courses Taught
 
-Large Language Model and AI	
-AI Agent: Theory and Practice
-Natural Language Processing	
-Introduction to Computational Linguistics
+Large Language Model and AI	 
+AI Agent: Theory and Practice  
+Natural Language Processing	  
+Introduction to Computational Linguistics  
 
 #### Personal Information
 
-Skills:	Mandarin as native language and good command of English
-Interests:	Fictional/narrative literature, movie, Ping Pong
-Qualities:	Good communication skills and pleasant personality
-A fast learner of new things, creative, highly motivated and well-organized
-Preparedness to work hard and face new challenges
+Skills:	Mandarin as native language and good command of English  
+Interests:	Fictional/narrative literature, movie, Ping Pong  
+Qualities:	Good communication skills and pleasant personality  
+A fast learner of new things, creative, highly motivated and well-organized  
+Preparedness to work hard and face new challenges  
 
 #### Education
-Peking University
-Ph.D., Computer Science	2012
-B.S., Computer Science & Application	2008
+Peking University  
+Ph.D., Computer Science	2012  
+B.S., Computer Science & Application	2008  
 
-Peking University of International Studies
-M.A., Applied Linguistics	2002
+Peking University of International Studies  
+M.A., Applied Linguistics	2002  
 
-Tianjin University
-B.E., Engineering Economics 	1996
-B.A., English for Science & Technology Purpose	1996
+Tianjin University  
+B.E., Engineering Economics 	1996  
+B.A., English for Science & Technology Purpose	1996  
