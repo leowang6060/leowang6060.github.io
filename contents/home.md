@@ -6,7 +6,7 @@ Leo Wang is a research fellow at the Key Laboratory of Computational Linguistics
 He/Him
 
 #### Contact
-Email: leowang6060@outlook.com
+Email: leowang6060@gmail.com
 
 #### Research Interests
 Artificial Intelligence Generated Content, Artificial Intelligence and Creative Writing, Educational Applications of Deep Learning, Big Data Analysis, Knowledge Base and Knowledge Graph, Computational/Corpus Linguistics
