@@ -8,40 +8,63 @@ He/Him
 #### Contact
 Email: leowang6060@gmail.com
 
-#### Research Interests
-Artificial Intelligence Generated Content, Artificial Intelligence and Creative Writing, Educational Applications of Deep Learning, Big Data Analysis, Knowledge Base and Knowledge Graph, Computational/Corpus Linguistics
+#### Academic Appointments
+
+Peking University
+
+Associate Professor: Language Research and Education Center	2012 – Present
+
+Research Fellow: Key Lab of Computational Linguistics, MOE	2013-2022
+
+Associate Professor: Department of Language Information Engineering	 2013 – 2020
+
+Assistant Professor: School of Foreign Languages	2003-2012
+
+University of Colorado
+
+Visiting Researcher: Lab of Computational Semantics	2016 – 2017
+
+University of Nebraska-Lincoln
+
+Visiting Researcher: School of Education	2009 – 2010
+
+Other Employment
+
+Academic Advisor: GEC Academy	2020 – Present
+
+Senior Consultant: Meixing Century (Beijing) Educational Technology Co., Ltd.	 2021 – Present
+
+Academic Advisor: Harbour Education Technology Co., Ltd. 	2021 – Present
+
+Academic Advisor: Wuhan Ching Si Education Technology Co., Ltd. 	2019 – Present
+
+#### Academic Interest
+
+AIGC with concentration on creative writing and AI long-text understanding, educational applications of deep learning, big data analysis, knowledge base and knowledge graph, computational/corpus linguistics
+
+#### Courses Taught
+
+Large Language Model and AI	
+AI Agent: Theory and Practice
+Natural Language Processing	
+Introduction to Computational Linguistics
+
+#### Personal Information
+
+Skills:	Mandarin as native language and good command of English
+Interests:	Fictional/narrative literature, movie, Ping Pong
+Qualities:	Good communication skills and pleasant personality
+A fast learner of new things, creative, highly motivated and well-organized
+Preparedness to work hard and face new challenges
 
 #### Education
-- Sep., 2006 – Jan., 2012: PhD of Computer Software and Theory, Institute of Computational Linguistics, Peking University, China
-- Sep., 2003—July, 2008: Bachelor of Science, major in Computer Science & Application,  School of Information Science & Technology, Peking University, China
-- Sep., 1999 – July, 2002: Master of Arts, Applied Linguistics, Beijing University of International Studies, China
-- Sep.,1992 -- Jun.,1996: Bachelor of Engineering & Bachelor of Arts, double major, Tianjin University, China
+Peking University
+Ph.D., Computer Science	2012
+B.S., Computer Science & Application	2008
 
-#### Skills
-- Proficient in programming with Python and familiar with C#, C language
-- Proficiency of English language, esp. speaking & writing
-- Profound knowledge of background, culture and history of English-speaking countries
+Peking University of International Studies
+M.A., Applied Linguistics	2002
 
-#### Work Experience
-$Full-time$
-
-*July 2013 – Present: Associate Professor. Department of Language Information Engineering, School of Software & Microelectronics, Peking University, China. Involved in academic research and teaching. Teaching courses include Introduction to Computational Linguistics, Computer-assisted Translation Technology, etc.
-
-*July 2012 – Present: Associate Professor. Language Research and Education Center, School of Foreign Languages, Peking University, China. Involved in academic research and teaching. Teaching courses include Computer-aided Translation, Introduction to Computational Linguistics, etc.
-
-*Aug. 2016 – July 2017: Visiting Professor, University of Colorado at Boulder, USA. Involved in academic research and lecturing.
-
-*Aug. 2009 – May 2010: Visiting Scholar, University of Nebraska-Lincoln, USA. Involved in academic research.
-
-*July 2003 – June 2012: Assistant Professor and Researcher. School of Foreign Languages, Peking University, China. Involved in academic research and teaching.
-
-$Part-time$
-
-*July 2022 – Present: Project Instructor and Academic Advisor. GEC Academy (Beijing Jisi Hulian Education Technology Co., Ltd.) Involved in designing research projects and instructing graduate/postgraduate students to conduct academic research on natural language processing, etc.
-
-*Jan. 2021 – Present: Senior Consultant of Educational Technology Innovation, Meixing Century (Beijing) Educational Technology Co., Ltd. Involved in providing consulting service related to educational technology application, curriculum design, product innovation, etc.
-
-*Sept. 2019 – Present: Project Instructor and Academic Advisor. Wuhan Ching Si Education Technology Co., Ltd. Involved in designing research projects and instructing graduate/postgraduate students to conduct academic research on speech and text processing, etc.
-
-#### Hobbies
-Narrative literature, reading, language & culture, movie, Ping Pong 
+Tianjin University
+B.E., Engineering Economics 	1996
+B.A., English for Science & Technology Purpose	1996
